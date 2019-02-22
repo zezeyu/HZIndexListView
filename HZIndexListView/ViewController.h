@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HZIndexViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : HZIndexViewController
 
 
 @end
